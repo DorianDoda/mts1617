@@ -18,3 +18,6 @@ Eneida Hoxha, Ermir Hoxhaj, Ornela Cerpja, Enea Aliko.
 
 ##G7
 Albi hoxha, Dorjan Spahiu,Aida Tafa,Elvira Sula
+
+##G12
+Serxho Hyka, Dorian Doda, Elvis Jani, Robert Kurila
